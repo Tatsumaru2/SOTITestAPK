@@ -1,10 +1,10 @@
-package com.soti.testapp
+package net.soti.testapp
 
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
-import com.soti.testapp.databinding.ActivityMainBinding
+import net.soti.testapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

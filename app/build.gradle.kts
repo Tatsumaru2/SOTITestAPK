@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.soti.testapp"
+    namespace = "net.soti.testapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.soti.testapp"
+        applicationId = "net.soti.testapp"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
