@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOTI Test App</string>
+    <string name="button_label">TAP TO TEST</string>
+    <string name="button_tapped">TAPPED!</string>
+    <string name="logo_description">SOTI Logo</string>
+</resources>
